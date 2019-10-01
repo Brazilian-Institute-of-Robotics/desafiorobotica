@@ -36,7 +36,7 @@ $ git clone https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica.g
 
 Para executar o simulador, faça o seguinte:
 
-**1.** Abra um novo terminal e execute `$ <vrep_folder>/vrep.sh`.
+**1.** Abra um novo terminal e execute `$ <vrep_folder>/vrep.sh`, caso ocorra erro de permissão execute `$ chmod +x vrep.sh`.
 
 **2.** Vá para File > Open Scene...e localize o cenário V-REP em `<desafiorobotica>/vrep_content/challenge_scenario.ttt`.
   
