@@ -29,7 +29,7 @@ Siga as etapas abaixo para configurar o V-REP:
 **3.** Clone e faça o download deste repositório na pasta de sua `preferência`.
 
 ```
-$ git clone -b develop https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica.git
+$ git clone https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica.git
 ``` 
 
 # Desenvolvimento
