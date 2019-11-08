@@ -1,6 +1,6 @@
 # DESAFIO ROBÓTICA
 
-![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/banner.PNG)
+![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/banner.png)
 
 Este repositório contém os arquivos V-REP para executar a simulação do **DESAFIO** referente ao **PROGRAMA NOVOS TALENTOS - Robótica e Sistemas Autônomos** para atuação como bolsista no **SENAI CIMATEC**.
 
