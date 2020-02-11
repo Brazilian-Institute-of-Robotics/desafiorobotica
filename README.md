@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/banner.png)
 
-Este repositório contém os arquivos V-REP para executar a simulação do **DESAFIO** referente ao **PROGRAMA NOVOS TALENTOS - Robótica e Sistemas Autônomos** para atuação como bolsista no **SENAI CIMATEC**.
+Este repositório contém os arquivos V-REP para executar a simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário ou bolsista de graduação no **SENAI CIMATEC**.
 
 # Aviso
 
@@ -18,7 +18,7 @@ A organização das pastas é a seguinte:
 
 # Instalação
 
-O simulador foi concebido usando o Ubuntu 16.04 e V-REP 3.6.2 (rev.0) . Outras versões de software podem funcionar, mas elas não são recomendadas pela competição.
+O simulador foi concebido usando o Ubuntu 16.04 e V-REP 3.6.2 (rev.0) . Outras versões de software podem funcionar.
 
 Siga as etapas abaixo para configurar o V-REP:
 
@@ -46,7 +46,7 @@ Para executar o simulador, faça o seguinte:
 
 # Dúvidas
 
-Se você tiver dúvidas sobre o desafio, pode entrar em contato: `desafio.robotica@fieb.org.br`.
+Se você tiver dúvidas sobre o desafio, pode entrar em contato: `marcoreis@fieb.org.br`.
 
 Dúvidas sobre o simulador e/ou implementação **NÃO** serão respondidas por e-mail.
 
