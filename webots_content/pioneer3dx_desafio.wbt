@@ -1,0 +1,180 @@
+#VRML_SIM R2021a utf8
+WorldInfo {
+  info [
+    "Pioneer 3DX (Adept Mobile Robots)"
+    "This two-wheel, two-motor differential drive robot has in addition a rear caster wheel"
+    "It is programmed to perform a simple obstacle avoidance behavior based on the values sensed by its 16 sonars"
+  ]
+  title "Pioneer 3-DX with blinking LEDs moving according to a Braitenberg rule"
+  basicTimeStep 8
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  fieldOfView 0.660595
+  orientation -0.24515691146660828 -0.9405734018054015 -0.23498886053676776 1.6861832120582434
+  position -24.832657339630646 13.887400006736742 -0.19283226803258469
+}
+TexturedBackground {
+}
+RectangleArena {
+  translation 0 0 0.01
+  floorSize 12 12
+  floorTileSize 2 2
+  floorAppearance Parquetry {
+    type "light strip"
+  }
+  wallHeight 0.4
+}
+StopSign {
+  translation -3.58 0 3.39
+  rotation 0 1 0 1.5708
+}
+PottedTree {
+  translation 4.17 0 3.4
+  name "potted tree(6)"
+}
+Ball {
+  translation 4.05 0.7960760000000001 -2.65
+  radius 0.8
+  mass 10
+}
+PottedTree {
+  translation 2.88 0 4.14
+  name "potted tree(5)"
+}
+PottedTree {
+  translation 3.25 0 3.79
+  name "potted tree(4)"
+}
+PottedTree {
+  translation 3.49 0 4.66
+  name "potted tree(2)"
+}
+PottedTree {
+  translation 3 0 4.83
+  name "potted tree(8)"
+}
+PottedTree {
+  translation 3.71 0 3.78
+  name "potted tree(3)"
+}
+PottedTree {
+  translation 3.34 0 4.28
+  name "potted tree(1)"
+}
+OilBarrel {
+  translation 2.07 0.44 1.72
+  name "oil barrel(2)"
+}
+PottedTree {
+  translation 2.44 0 3.93
+}
+PottedTree {
+  translation 1.86 -2.7219e-06 4.25
+  rotation 0 0 1 4.692820414042842e-06
+  name "potted tree(7)"
+}
+OilBarrel {
+  translation 1.5 0.44 2.55
+  name "oil barrel(1)"
+}
+WoodenPalletStack {
+  translation -0.462514 0 1.69885
+  rotation 0 1 0 -1.047195307179586
+}
+OilBarrel {
+  translation 1.05 0.44 1.72
+}
+WoodenBox {
+  translation 3.04099 0.3 -0.391793
+  rotation 0 1 0 -0.785395307179586
+  name "wooden box(6)"
+  size 3 0.6 0.6
+}
+CardboardBox {
+  translation -2.94127 0.3 -0.19642
+  name "cardboard box(3)"
+  size 2 0.6 0.6
+}
+CardboardBox {
+  translation -1.47127 0.3 -1.24642
+  name "cardboard box(2)"
+  size 2 0.6 0.6
+}
+CardboardBox {
+  translation -3.54127 0.3 5.54358
+  rotation 0 1 0 1.5708
+  name "cardboard box(4)"
+  size 0.8 0.5 0.6
+}
+WoodenBox {
+  translation -1.48065 0.3 -2.58465
+  name "wooden box(5)"
+  size 0.6 0.6 2
+}
+WoodenBox {
+  translation -3.39065 0.3 -2.33465
+  name "wooden box(4)"
+  size 3 0.6 0.6
+}
+DEF PIONEER_3DX Pioneer3dx {
+  hidden position_0_0 0.00016477693208794382
+  hidden position_0_1 8.73287784838024e-11
+  hidden position_0_2 -8.704148513061227e-11
+  hidden rotation_1 0 1 0 0.00016477693272447347
+  hidden position_1_0 -0.018436409829554298
+  hidden rotation_2 -1 0 0 0.018436409829554457
+  translation -4.563661910918624 0.09694367993648513 -3.7050836705319417
+  rotation -0.007902413155349026 0.9998373860053044 -0.016209670336016058 -2.2344886557765458
+  controller ""
+}
+CardboardBox {
+  translation -0.201269 0.3 -4.79642
+  size 1.8 0.6 0.6
+}
+CardboardBox {
+  translation -2.88457 0.3 2.56162
+  rotation 0 0 -1 -1.5708053071795867
+  name "cardboard box(1)"
+  size 0.6 0.6 2.3
+}
+FloorLight {
+  translation -4.51866 0 2.36419
+  pointLightIntensity 10
+  pointLightCastShadows TRUE
+}
+WoodenBox {
+  translation -0.98067 0.3 3.31136
+  rotation 0 1 0 1.5708
+  size 0.4 0.6 3
+}
+WoodenBox {
+  translation 1.26017 0.3 -1.70787
+  rotation 0 1 0 -1.3089953071795861
+  name "wooden box(1)"
+  size 3 0.6 0.6
+}
+WoodenBox {
+  translation -4.39157 0.3 1.49663
+  name "wooden box(2)"
+  size 3 0.6 0.6
+}
+WoodenBox {
+  translation -3.53065 0.3 -4.36465
+  name "wooden box(3)"
+  size 0.6 0.6 3
+}
+SignPole {
+  translation -4.98 0 -4.81
+  color 0.2 1 0.258824
+  signBoards [
+    DirectionPanel {
+      rotation 0 1 0 2.0944
+      backgroundColor 0.1 1 0.3
+      textSize 0.2
+      text "      INÍCIO"
+    }
+  ]
+}
+TexturedBackgroundLight {
+}

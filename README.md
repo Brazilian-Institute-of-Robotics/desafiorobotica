@@ -1,12 +1,8 @@
-# DESAFIO ROBÓTICA
+# DESAFIO de ROBÓTICA - 2021
 
-![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/banner.png)
+![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/pioneer3dx.png)
 
-Este repositório contém os arquivos V-REP para executar a simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário ou bolsista de graduação no **SENAI CIMATEC**.
-
-# Aviso
-
-Certifique-se de ler e entender todas as regras do desafio disponíveis em [resources/regulamento_challenge.pdf](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/regulamento_challenge.pdf)
+Este repositório contém os arquivos necessários para a realização da simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário de graduação no **SENAI CIMATEC**.
 
 # Organização
 
@@ -14,19 +10,17 @@ A organização das pastas é a seguinte:
 
 - `resources` - Arquivos de suporte geral.
 
-- `vrep_content` - Contém a cena da simulação para o desafio. Você pode carregá-lo dentro do simulador V-REP.
+- `webots_content` - Contém o **mundo** e o **controle** para a simulação do desafio. Você pode carregá-los dentro do simulador Webots.
 
 # Instalação
 
-O simulador foi concebido usando o Ubuntu 16.04 e V-REP 3.6.2 (rev.0) . Outras versões de software podem funcionar.
+O simulador escolhido para este desafio é o Webots <https://cyberbotics.com/#cyberbotics>.
 
-Siga as etapas abaixo para configurar o V-REP:
+Webots é multiplataforma, ou seja pode ser instalado em qualquer sistema operacional.
 
-**1.** Faça o download do **V-REP PRO EDU V3.6.2 rev0** no site da Coppelia Robotics: http://www.coppeliarobotics.com/downloads.html
+Faça o download em <https://github.com/cyberbotics/webots/releases/tag/R2021a>, escolhendo o seu sistema operacional.
 
-**2.** Descompacte-lo (preferencialmente) para sua pasta **home** e renomeie a pasta como `vrep`.
-
-**3.** Clone e faça o download deste repositório na pasta de sua `preferência`.
+Para fazer o download deste repositório basta clonar numa pasta de sua `preferência`.
 
 ```
 $ git clone https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica.git
@@ -34,15 +28,25 @@ $ git clone https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica.g
 
 # Desenvolvimento
 
-Para executar o simulador, faça o seguinte:
+O simulador é bem intuitivo, porém o candidato deve investir tempo para realizar alguns tutoriais disponíveis neste endereço >>> <https://cyberbotics.com/doc/guide/tutorials?tab-language=c#tutorials>.
 
-**1.** Abra um novo terminal e execute `$ <vrep_folder>/vrep.sh`, caso ocorra erro de permissão execute `$ chmod +x vrep.sh`.
+O robô a ser utilizado é o Pioneer 3-DX <https://cyberbotics.com/doc/guide/pioneer-3dx?tab-language=c#adepts-pioneer-3-dx>.
 
-**2.** Vá para File > Open Scene...e localize o cenário V-REP em `<desafiorobotica>/vrep_content/challenge_scenario.ttt`.
+Para executar o desafio, faça o seguinte:
+
+**1.** Abra o Webots.
+
+**2.** Com o Webots aberto, abra o mundo para este desafio, o mesmo está localizado em <>.
   
-**3.** Execute o simulador indo para `Simulation > Start simulation`.
+**3.** Para que o robô chegue até a região arandela, o mesmo deve fazer uso de um controle. O controle as ser utilizado está em <>. Veja que o controle não está otimizado para a realização da missão.
 
-**4.** Você deve alterar o script do `Quadricopter` para realizar a **missão**.
+**4.** Você deve alterar o script do controle `desafio` para realizar a **missão**. Não esqueça: para alterar você precisa saber o que fazer, por isso faça os tutoriais.
+
+
+# Aviso
+
+**Certifique-se de ler e entender todas as regras do desafio disponíveis.**
+
 
 # Dúvidas
 
@@ -52,3 +56,4 @@ Dúvidas sobre o simulador e/ou implementação **NÃO** serão respondidas por 
 
 
 **Sem esforço não há recompensa!**
+'This is the way.'
