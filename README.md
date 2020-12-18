@@ -44,7 +44,7 @@ Para executar o desafio, faça o seguinte:
 
 # Cronograma e barema
 
-As informações das datas importantes deste desafio e os critérios adotados para a avaliação estão contidas neste link <>.
+As informações das datas importantes deste desafio e os critérios adotados para a avaliação estão contidas neste link <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots-2021/resources/pioneer3dx_desafio_cronograma.pdf>.
 
 # Aviso
 
