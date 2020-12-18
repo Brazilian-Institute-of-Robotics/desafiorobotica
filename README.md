@@ -1,12 +1,12 @@
 # DESAFIO ROBÓTICA
 
-![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/banner.png)
+![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/vrep-2020/resources/banner.png)
 
 Este repositório contém os arquivos V-REP para executar a simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário ou bolsista de graduação no **SENAI CIMATEC**.
 
 # Aviso
 
-Certifique-se de ler e entender todas as regras do desafio disponíveis em [resources/regulamento_challenge.pdf](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/regulamento_challenge.pdf)
+Certifique-se de ler e entender todas as regras do desafio disponíveis em [resources/regulamento_challenge.pdf](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/vrep-2020/resources/regulamento_challenge.pdf)
 
 # Organização
 
