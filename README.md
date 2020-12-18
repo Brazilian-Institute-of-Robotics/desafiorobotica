@@ -42,6 +42,9 @@ Para executar o desafio, faça o seguinte:
 
 **4.** Você deve alterar o script do controle `desafio` para realizar a **missão**. Não esqueça: para alterar você precisa saber o que fazer, por isso faça os tutoriais.
 
+# Cronograma e barema
+
+As informações das datas importantes deste desafio e os critérios adotados para a avaliação estão contidas neste link <>.
 
 # Aviso
 
