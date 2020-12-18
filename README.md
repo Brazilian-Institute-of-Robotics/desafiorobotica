@@ -45,7 +45,7 @@ Para executar o desafio, faça o seguinte:
 
 # Aviso
 
-**Certifique-se de ler e entender todas as regras do desafio disponíveis.**
+**Certifique-se de ler e entender todas as regras do desafio disponíveis em** <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/resources/pioneer3dx_desafio_regras.pdf>
 
 
 # Dúvidas
