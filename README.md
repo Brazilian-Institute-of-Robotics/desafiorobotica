@@ -1,6 +1,6 @@
 # DESAFIO de ROBÓTICA - 2021
 
-![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/master/resources/pioneer3dx.png)
+![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/resources/pioneer3dx.png)
 
 Este repositório contém os arquivos necessários para a realização da simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário de graduação no **SENAI CIMATEC**.
 
@@ -56,4 +56,5 @@ Dúvidas sobre o simulador e/ou implementação **NÃO** serão respondidas por 
 
 
 **Sem esforço não há recompensa!**
+
 'This is the way.'
