@@ -1,6 +1,6 @@
 # DESAFIO de ROBÓTICA - 2021
 
-![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/resources/banner.png)
+![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots-2021/resources/banner.png)
 
 Este repositório contém os arquivos necessários para a realização da simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário de graduação no **SENAI CIMATEC**.
 
@@ -36,16 +36,16 @@ Para executar o desafio, faça o seguinte:
 
 **1.** Abra o Webots.
 
-**2.** Com o Webots aberto, abra o mundo para este desafio, o mesmo está localizado em <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/webots_content/pioneer3dx_desafio.wbt>.
+**2.** Com o Webots aberto, abra o mundo para este desafio, o mesmo está localizado em <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots-2021/webots_content/pioneer3dx_desafio.wbt>.
   
-**3.** Para que o robô chegue até a região da luminária de chão, o mesmo deve fazer uso de um controle. O controle as ser utilizado está em <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/webots_content/desafio.c>. Veja que o controle não está otimizado para a realização da missão.
+**3.** Para que o robô chegue até a região da, o mesmo deve fazer uso de um controle. O controle as ser utilizado está em <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots-2021/webots_content/desafio.c>. Veja que o controle não está otimizado para a realização da missão.
 
 **4.** Você deve alterar o script do controle `desafio` para realizar a **missão**. Não esqueça: para alterar você precisa saber o que fazer, por isso faça os tutoriais.
 
 
 # Aviso
 
-**Certifique-se de ler e entender todas as regras do desafio disponíveis em** <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/resources/pioneer3dx_desafio_regras.pdf>
+**Certifique-se de ler e entender todas as regras do desafio disponíveis em** <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots-2021/resources/pioneer3dx_desafio_regras.pdf>
 
 
 # Dúvidas
