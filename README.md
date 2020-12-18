@@ -38,7 +38,7 @@ Para executar o desafio, faça o seguinte:
 
 **2.** Com o Webots aberto, abra o mundo para este desafio, o mesmo está localizado em <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/webots_content/pioneer3dx_desafio.wbt>.
   
-**3.** Para que o robô chegue até a região arandela, o mesmo deve fazer uso de um controle. O controle as ser utilizado está em <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/webots_content/desafio.c>. Veja que o controle não está otimizado para a realização da missão.
+**3.** Para que o robô chegue até a região da luminária de chão, o mesmo deve fazer uso de um controle. O controle as ser utilizado está em <https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots/webots_content/desafio.c>. Veja que o controle não está otimizado para a realização da missão.
 
 **4.** Você deve alterar o script do controle `desafio` para realizar a **missão**. Não esqueça: para alterar você precisa saber o que fazer, por isso faça os tutoriais.
 
