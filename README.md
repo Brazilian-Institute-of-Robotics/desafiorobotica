@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/Brazilian-Institute-of-Robotics/desafiorobotica/blob/webots-2021/resources/banner.png)
 
-Este repositório contém os arquivos necessários para a realização da simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário de graduação no **SENAI CIMATEC**.
+Este repositório contém os arquivos necessários para a realização da simulação do **DESAFIO** referente ao **Laboratório de Robótica e Sistemas Autônomos** para atuação como estagiário ou bolsista no **SENAI CIMATEC**.
 
 # Organização
 
